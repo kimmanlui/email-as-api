@@ -1,0 +1,15 @@
+<conf>
+   <data name="smtp_server">smtp.gmail.com</data>
+   <data name="smtp_port">587</data>
+   <data name="smtp_login">xxxxxxxxx@gmail.com</data>
+   <data name="smtp_pwd">xxxxxxxx</data> 
+    
+   <data name="TO_MAIL">xxxxxxxx</data>
+   <data name="FM_MAIL">xxxxxxxxxxxxxxx</data>    
+    
+   <data name="IMAP_username">xxxxxxxxxx@outlook.com</data>        
+   <data name="IMAP_password">xxxxxxxxxxx</data>   
+   <data name="IMAP_SERVER">outlook.office365.com</data>   
+   <data name="IMAP_PORT">993</data>       
+</conf>
+
